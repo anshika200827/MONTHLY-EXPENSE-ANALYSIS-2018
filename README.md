@@ -4,3 +4,12 @@ A data analytics project exploring 2018 monthly expense data across 6 categories
 BY ANSHIKA SINGLA 
 
 DONE ON 25 JUNE 2026
+
+<img width="1561" height="641" alt="Image" src="https://github.com/user-attachments/assets/7e6097e3-fa5c-4cf8-9626-f10a99b6caa0" />
+DATA SOURCE
+
+<img width="1812" height="936" alt="Image" src="https://github.com/user-attachments/assets/82397d2a-9b44-4a25-b658-41503b36797e" />
+ANALYSIS OF THE DATA
+
+<img width="1344" height="892" alt="Image" src="https://github.com/user-attachments/assets/b28839be-73c8-4701-9d7f-e54265bbb6d1" />
+CONCLUSION AND INTERPRETATION OF ANALYSIS
