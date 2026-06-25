@@ -20,23 +20,22 @@ CONCLUSION AND INTERPRETATION OF ANALYSIS
 
 
 
-<U>Project Title</U>:<BR>
+##Project Title
 2018 Monthly Expense Analysis – Excel Data Analytics Project
 
 
-
-<U>Overview / Objective</U><BR>
+##Overview
 
 This project analyzes household expenses for the year 2018, broken down by month and category, to identify spending trends, seasonal patterns, and areas of high/low expenditure. Built using Excel's data analysis and visualization tools.
 
 
 
-Dataset
+##Dataset
 monthly transactions, 6 categories: Housing, Food & Dining, Bills & Utilities, Personal, Auto & Transport, Health & Fitness
 Time period: Jan–Dec 2018
 
 
-Tools & Techniques Used
+##Tools & Techniques Used
 
 * Microsoft Excel
 * PivotTables & PivotCharts
@@ -44,7 +43,7 @@ Tools & Techniques Used
 * Trend/line charts
 * Data aggregation & summarization
 
-Key Insights / Findings
+##Key Insights / Findings
 
 Total annual expenditure: £19,820
 Housing had the highest and most consistent monthly expense
@@ -54,7 +53,7 @@ June had the lowest monthly expenditure
 Inference: Summer months show reduced spending compared to winter, while housing costs remain stable year-round
 
 
-Visualizations
+##Visualizations
 
 per month total expense trend and a PivotChart for category-wise monthly breakdown
 
