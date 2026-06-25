@@ -13,3 +13,20 @@ ANALYSIS OF THE DATA
 
 <img width="1344" height="892" alt="Image" src="https://github.com/user-attachments/assets/b28839be-73c8-4701-9d7f-e54265bbb6d1" />
 CONCLUSION AND INTERPRETATION OF ANALYSIS
+
+
+
+
+
+<U>Project Title</U>:<BR>
+2018 Monthly Expense Analysis – Excel Data Analytics Project
+
+<U>Overview / Objective</U><BR>
+A 2–3 line summary — what the project does and why you did it.
+
+This project analyzes household expenses for the year 2018, broken down by month and category, to identify spending trends, seasonal patterns, and areas of high/low expenditure. Built using Excel's data analysis and visualization tools.
+
+Dataset
+
+What data you used (monthly transactions, 6 categories: Housing, Food & Dining, Bills & Utilities, Personal, Auto & Transport, Health & Fitness)
+Time period: Jan–Dec 2018
